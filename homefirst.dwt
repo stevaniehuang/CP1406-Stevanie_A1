@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Home</title>
+<!-- TemplateEndEditable -->
+<link href="../css/mastercss.css" rel="stylesheet" type="text/css">
+<link href="../css/contentcss.css" rel="stylesheet" type="text/css">
+<link href="../css/indexcss.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<div id="navigation">
+<nav>
+	<ul>
+		<li><a href="../ourstory.html">Our Story</a>
+			<ul>
+				<li><a href="../ourstory.html#aboutcosplay">About Cosplay</a></li>
+				<li><a href="../ourstory.html#aboutcossieplay">About CossiePlay</a></li>
+			</ul>
+		</li>
+		<li>Get Costume
+			<ul>
+				<li>Overview</li>
+				<li>Order Now</li>
+				<li>Item List</li>
+			</ul>
+		</li>
+		<li>Home</li>
+		<li>Join Party
+			<ul>
+				<li>Sign Up</li>
+				<li>Party Guideliness</li>
+			</ul>
+		</li>
+		<li>Contact Us</li>
+	</ul>
+</nav>
+</div>
+<body>
+<div id="backgroundhome">
+	<div id="hometitle">
+<h1>CossiePlay</h1>
+<p>
+Dressing up is fun <br>
+Good for the socially awkward and very creative 
+</p>
+
+</div>
+</div>
+<!-- TemplateBeginEditable name="content" -->
+<p></p>
+<!-- TemplateEndEditable -->
+</body>
+</html>

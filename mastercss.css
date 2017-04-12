@@ -1,0 +1,61 @@
+@charset "utf-8";
+#navigation{
+	margin: auto;
+	width: 100%;
+	
+}
+
+#headertitle{
+	font-size: 20px;
+	padding-left: 50px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color: #EC1B4B;
+	margin-top: 10px;
+	margin-bottom: -25px;
+}
+
+nav ul{
+	padding: 8px;
+	text-align: center;
+	color: white;
+	background:rgba(168,33,107,1.00);
+	position: relative;
+}
+
+nav ul li {
+	font-size: 22px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	display: inline-block;
+	padding: 10px 100px 10px 100px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+nav li ul{
+	display: none;
+}
+
+nav li:hover ul {
+	display: block;
+	position: absolute;
+}
+
+nav li:hover ul li{
+	
+	font-size: 21px;
+	padding: 12px;
+	text-decoration: none;
+	margin: auto;
+	display: flex;
+}
+
+nav li:hover ul li a{
+	color: black;
+}
+
+nav li:hover{
+	background-color:gold;
+}
